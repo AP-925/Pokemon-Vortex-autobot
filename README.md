@@ -11,3 +11,5 @@ Note :
 Hope you got a decent internet connection, also hope you don't get banned for cheating :P (rare case though, as there isn't any web page parsing which can be traced by admin.)
 
 Suggestions are welcome :)
+
+2021 Edit: Desktop application coming soon!
